@@ -1,10 +1,5 @@
-const elemento = document.querySelector(".teste");
-
-const titulo = document.querySelector(".teste2");
-
-titulo. textcontent = “olá mundo";
-
-
-Let contador = 1;
-
-Let contador =  [1,2,5,8,9];
+const caixaPrincipal= document.querySelector(".caixa-principal");
+const caixaPergunta = document.querySelector(".caixa-perguntas");
+const caixaAlternativas = document.querySelector(".caixa-alternativas");
+const caixaResultado =  document.querySelector(".caixa-resultado");
+const textoResultado =  document.querySelector(".texto-resultado");
